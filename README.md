@@ -18,6 +18,7 @@
 9. 支持代理IP
 ![image](https://github.com/user-attachments/assets/a630d6ef-fdfd-4601-95c3-635966572bb1)
 [立即下载软件](https://t.me/dbhy0/321)
+
 [软件功能预览图](https://t.me/yingxiaogongju/3)
 
 ### 💻彩虹营销工具破解版3.21
@@ -33,6 +34,7 @@
 9. 支持代理IP
 ![image](https://github.com/user-attachments/assets/117fbc6f-6289-4f24-86c8-68c969ecb061)
 [立即下载软件](https://t.me/dbhy0/322)
+
 [软件功能预览图](https://t.me/yingxiaogongju/13)
 
 ### 💻TGPRo私人定制版
@@ -43,9 +45,11 @@
 ⚠️此软件只适合群发使用 群发超级稳定
 ![image](https://github.com/user-attachments/assets/8b7150b7-a8b8-47de-994e-e1427fdd99b2)
 [立即下载软件](https://t.me/dbhy0/324)
+
 [软件功能预览图](https://t.me/yingxiaogongju/39)
 
 > **商务合作请联系 https://t.me/heigehy**
+> 
 > **更多业务查看 https://t.me/dbhy0/215**
 ### 免责声明
 
