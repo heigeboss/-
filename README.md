@@ -17,7 +17,8 @@
 8. 提取群组/频道的消息的链接
 9. 支持代理IP
 ![image](https://github.com/user-attachments/assets/a630d6ef-fdfd-4601-95c3-635966572bb1)
-[立即下载](https://t.me/dbhy0/321) [软件功能预览图](https://t.me/yingxiaogongju/3)
+[立即下载软件](https://t.me/dbhy0/321)
+[软件功能预览图](https://t.me/yingxiaogongju/3)
 
 ### 💻彩虹营销工具破解版3.21
 **🟢软件功能概括**
@@ -31,7 +32,8 @@
 8. 支持批量解除双向
 9. 支持代理IP
 ![image](https://github.com/user-attachments/assets/117fbc6f-6289-4f24-86c8-68c969ecb061)
-[立即下载](https://t.me/dbhy0/322) [软件功能预览图](https://t.me/yingxiaogongju/13)
+[立即下载软件](https://t.me/dbhy0/322)
+[软件功能预览图](https://t.me/yingxiaogongju/13)
 
 ### 💻TGPRo私人定制版
 **🟢软件功能概括**
@@ -40,10 +42,11 @@
 3. 群发
 ⚠️此软件只适合群发使用 群发超级稳定
 ![image](https://github.com/user-attachments/assets/8b7150b7-a8b8-47de-994e-e1427fdd99b2)
-[立即下载](https://t.me/dbhy0/324) [软件功能预览图](https://t.me/yingxiaogongju/39)
+[立即下载软件](https://t.me/dbhy0/324)
+[软件功能预览图](https://t.me/yingxiaogongju/39)
 
-> **商务合作请联系 @heigehy**
-
+> **商务合作请联系 https://t.me/heigehy**
+> **更多业务查看 https://t.me/dbhy0/215**
 ### 免责声明
 
 本项目的所有内容均来源于网络，仅供学习和研究使用。请您自觉遵守当地的法律法规。本项目不对使用者的行为承担任何责任。使用者应自行承担使用本项目所产生的一切后果。如有内容侵犯了您的权益，请联系我们删除相关内容。
