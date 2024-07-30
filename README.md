@@ -16,6 +16,7 @@
 7. 关键词监听并自动回复
 8. 提取群组/频道的消息的链接
 9. 支持代理IP
+
 ![image](https://github.com/user-attachments/assets/a630d6ef-fdfd-4601-95c3-635966572bb1)
 [软件功能预览图](https://t.me/yingxiaogongju/3)
 
@@ -32,6 +33,7 @@
 7. 提取群组/频道的消息的链接
 8. 支持批量解除双向
 9. 支持代理IP
+
 ![image](https://github.com/user-attachments/assets/117fbc6f-6289-4f24-86c8-68c969ecb061)
 [软件功能预览图](https://t.me/yingxiaogongju/13)
 
@@ -43,6 +45,7 @@
 2. 批量加群
 3. 群发
 ⚠️此软件只适合群发使用 群发超级稳定
+
 ![image](https://github.com/user-attachments/assets/8b7150b7-a8b8-47de-994e-e1427fdd99b2)
 [软件功能预览图](https://t.me/yingxiaogongju/39)
 
